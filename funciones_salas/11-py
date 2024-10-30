@@ -1,0 +1,9 @@
+#esta es una funcion que muestra un mesnaje con la funcion 
+print (" ")
+print ("Cristian David Salas De LA O 3-W")
+print (" ")
+def my_function(x):
+  print ("hola")
+print(my_function(3))
+print(my_function(5))
+print(my_function(9))
