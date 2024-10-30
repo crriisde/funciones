@@ -68,3 +68,28 @@ punto 10
 ![image](https://github.com/user-attachments/assets/bc75eea0-3b68-415a-9ec6-e23d0436debb)
 
 punto 11
+
+![image](https://github.com/user-attachments/assets/1c87db4c-a5d2-46b9-a46e-a1e321de3dd8)
+
+
+punto 12
+
+![image](https://github.com/user-attachments/assets/a72d36dc-0c71-40dc-a1a7-aa77809206bd)
+
+
+punto 13
+
+![image](https://github.com/user-attachments/assets/546f3e12-ceec-4a69-ac44-5b5785ed90cf)
+
+
+punto 14
+
+![image](https://github.com/user-attachments/assets/60c4cc11-5365-40a0-8601-f566871476b8)
+
+
+punto 15
+
+![image](https://github.com/user-attachments/assets/a4531c08-d3f1-426f-a4b1-49c6df49157d)
+
+
+
