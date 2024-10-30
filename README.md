@@ -1,71 +1,53 @@
 punto 1
 
-![image](https://github.com/user-attachments/assets/959a4406-fe13-42d3-91da-ea87a676073d)
+![image](https://github.com/user-attachments/assets/20ff8df2-69ff-4d34-b9d9-bee312f90358)
 
-![image](https://github.com/user-attachments/assets/088f303b-9edc-4260-b5e5-ff69fdf8af7d)
 
 
 punto 2
 
-![image](https://github.com/user-attachments/assets/be7ef69d-0e68-4c63-9714-8dcf13df095d)
-
-![image](https://github.com/user-attachments/assets/fe429946-59b2-4463-a09c-8b015b67df1c)
+![image](https://github.com/user-attachments/assets/1461e2f2-113b-41f0-b083-c9ff4b0529b0)
 
 
 punto 3
-
-![image](https://github.com/user-attachments/assets/ebdfbedb-657a-4b24-89a8-f722f542db19)
-
-![image](https://github.com/user-attachments/assets/9ed1f3f4-e69b-4d19-be32-1a821848747d)
+![image](https://github.com/user-attachments/assets/20bb6f94-2a39-4726-9dcd-9f0b9a94f302)
 
 
 punto 4
-
-![image](https://github.com/user-attachments/assets/a1fa6681-9722-4d35-b71d-7374ebbb3bd8)
-
-![image](https://github.com/user-attachments/assets/ecc9cc3d-1633-4768-844b-8ade1e2819b9)
+![image](https://github.com/user-attachments/assets/ffa61e78-e5b6-4554-82f6-2add8f90d757)
 
 
 punto 5
+![image](https://github.com/user-attachments/assets/0cffbcb6-7f3a-4829-9b49-e1dad4a28afc)
 
-![image](https://github.com/user-attachments/assets/9e7320bf-b609-4317-8a8a-ce89ddf46c2a)
-
-![image](https://github.com/user-attachments/assets/bc0f4b9b-167d-4d81-8201-cb36243c4238)
 
 
 punto 6
 
-![image](https://github.com/user-attachments/assets/13040f23-070b-40a9-b528-f6fbc3979345)
-
-![image](https://github.com/user-attachments/assets/f692edaf-c3f9-46c2-ac83-8f396b9ec321)
+![image](https://github.com/user-attachments/assets/f42d87d0-6e66-4686-8874-d92e2ce53af6)
+1)
 
 
 punto 7
-
-![image](https://github.com/user-attachments/assets/2b8ecdd1-3380-43ab-8b55-9d03c86fc49b)
-
-![image](https://github.com/user-attachments/assets/59f067f4-50d0-44f6-86fb-64b3369d14c4)
+![image](https://github.com/user-attachments/assets/8428e527-12ad-4eb0-beba-648d76c75fdd)
 
 
 punto 8
 
-![image](https://github.com/user-attachments/assets/ef7f829a-b57f-4798-9491-5890d55a9c14)
+![image](https://github.com/user-attachments/assets/663ee419-0d62-4ae3-acbf-fd3c0e3fc554)
 
-![image](https://github.com/user-attachments/assets/29100b93-dd5b-4351-8b06-1f64bbcef02c)
 
 
 punto 9
 
-![image](https://github.com/user-attachments/assets/4b5c25de-97a0-427a-92b2-1d5848f9ec52)
+![image](https://github.com/user-attachments/assets/f850b943-b483-4f7b-90b7-29a50ca9d3ab)
 
-![image](https://github.com/user-attachments/assets/e5ad42cb-cbbd-4f32-bc5e-e056a5b1087d)
 
 
 punto 10
 
-![image](https://github.com/user-attachments/assets/896e7516-9b61-4476-a5d3-95171ddc0161)
+![image](https://github.com/user-attachments/assets/d95f3a60-ec0a-4dbd-b601-9f7e7c65ac91)
 
-![image](https://github.com/user-attachments/assets/bc75eea0-3b68-415a-9ec6-e23d0436debb)
 
 punto 11
 
@@ -90,6 +72,31 @@ punto 14
 punto 15
 
 ![image](https://github.com/user-attachments/assets/a4531c08-d3f1-426f-a4b1-49c6df49157d)
+
+16
+
+![image](https://github.com/user-attachments/assets/147e3f34-42e8-4d28-9aae-2d1f7b5d3ff5)
+
+17
+
+![image](https://github.com/user-attachments/assets/e992c7c0-c007-468e-a490-b3dc2015b5ba)
+
+18
+
+![image](https://github.com/user-attachments/assets/f9389187-8e83-40c4-aca5-cd25f13c0828)
+
+19
+
+![image](https://github.com/user-attachments/assets/96a36a67-de5d-4518-a0b0-8f37650e571b)
+
+20
+
+![image](https://github.com/user-attachments/assets/5d86a802-2861-471b-9046-0c7a6a622e78)
+
+
+
+
+
 
 
 
